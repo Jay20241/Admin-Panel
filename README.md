@@ -2,4 +2,4 @@
 Tech-stack - Flutter Web, NodeJS, Express, MongoDB. <br />
 Image upload and retrieve using Cloudinary. <br />
 
-![image alt](https://github.com/Jay20241/E-commerce-App/blob/d3280a5d606cd044993b754a4923845d238e9296/i1.png)
+![image alt](https://github.com/Jay20241/Admin-Panel/blob/40233a1fea42c08b07623859c8e89328e859dd06/admin_panel.png)
